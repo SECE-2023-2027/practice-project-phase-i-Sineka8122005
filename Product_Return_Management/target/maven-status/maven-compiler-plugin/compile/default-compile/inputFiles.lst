@@ -1,0 +1,12 @@
+C:\Users\rahul\eclipse-workspace\returns-management\src\main\java\com\inventory\exception\InvalidReturnException.java
+C:\Users\rahul\eclipse-workspace\returns-management\src\main\java\com\inventory\exception\StockUpdateFailureException.java
+C:\Users\rahul\eclipse-workspace\returns-management\src\main\java\com\inventory\interfaces\Returnable.java
+C:\Users\rahul\eclipse-workspace\returns-management\src\main\java\com\inventory\model\Customer.java
+C:\Users\rahul\eclipse-workspace\returns-management\src\main\java\com\inventory\model\CustomerReturn.java
+C:\Users\rahul\eclipse-workspace\returns-management\src\main\java\com\inventory\model\InventoryLog.java
+C:\Users\rahul\eclipse-workspace\returns-management\src\main\java\com\inventory\model\Product.java
+C:\Users\rahul\eclipse-workspace\returns-management\src\main\java\com\inventory\model\Return.java
+C:\Users\rahul\eclipse-workspace\returns-management\src\main\java\com\inventory\model\ReturnStatus.java
+C:\Users\rahul\eclipse-workspace\returns-management\src\main\java\com\inventory\ReturnManagementApp.java
+C:\Users\rahul\eclipse-workspace\returns-management\src\main\java\com\inventory\service\ReturnService.java
+C:\Users\rahul\eclipse-workspace\returns-management\src\main\java\com\inventory\util\DatabaseConnection.java

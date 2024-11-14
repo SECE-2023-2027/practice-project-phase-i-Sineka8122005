@@ -1,0 +1,12 @@
+com\inventory\model\CustomerReturn.class
+com\inventory\exception\StockUpdateFailureException.class
+com\inventory\interfaces\Returnable.class
+com\inventory\model\Product.class
+com\inventory\exception\InvalidReturnException.class
+com\inventory\service\ReturnService.class
+com\inventory\model\Customer.class
+com\inventory\model\InventoryLog.class
+com\inventory\model\Return.class
+com\inventory\model\ReturnStatus.class
+com\inventory\util\DatabaseConnection.class
+com\inventory\ReturnManagementApp.class
